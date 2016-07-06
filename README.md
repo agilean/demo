@@ -1,2 +1,2 @@
 # Play Ground
-Only play grand for CI demo.
+Only play ground for CI Jenkins.
